@@ -1,18 +1,11 @@
 <h1 align="center">👋 Hello, I'm Mabrouka Taieb</h1>
 
 <p align="center">
-  🚀 Passionate about <strong>Cybersecurity</strong> | 💻 Web & Network Enthusiast | 🌱 Currently expanding my skills in <strong>Python, Linux, and Ethical Hacking</strong>
 </p>
 
 ---
 
-### 👩‍💻 About Me
 
-- 🎓 I’m a master's student in **Information Systems & Network Security**  
-- 🔐 Interested in **penetration testing, digital forensics, and system hardening**  
-- 📚 Currently learning: `Python`, `Linux`, `CCNA`, `OWASP Top 10`, `CompTIA Security+`  
-- 🤝 Looking to collaborate on: **Open-source security tools and CTF challenges**
-- 🌍 Languages: 🇫🇷 French | 🇬🇧 English | 🇹🇳 Arabic (Tunisian Dialect)
 
 ---
 
@@ -32,10 +25,9 @@
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio (if any): [yourwebsite.com](https://yourwebsite.com)
-
+- 📧 Email:
+- 💼 LinkedIn: 
+- 🌐 Portfolio ():
 ---
 
 ### ⚡ Fun Fact
